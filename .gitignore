@@ -1,0 +1,15 @@
+/1_A/node_modules
+/1_B/backend/node_modules
+/1_B/frontend/node_modules
+/1_B/frontend/.next
+/1_C/frontend/node_modules
+/1_C/frontend/.next
+/1_C/auth-service/node_modules
+/1_C/content-service/node_modules
+/1_C/user-service/node_modules
+/2/node_modules
+/2/.next
+/3/node_modules
+/3/.next
+/4/node_modules
+/4/.next

@@ -1,0 +1,7 @@
+export interface FormData {
+    name: string;
+    email: string;
+    message?: string;
+    category?: string;
+    step?: number;
+  }
